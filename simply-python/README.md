@@ -1,1 +1,1 @@
-This folder has notebooks that mostly use standarnd python library.
+This folder has notebooks that mostly use standarnd python library only.
